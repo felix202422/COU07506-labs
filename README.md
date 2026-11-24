@@ -39,7 +39,7 @@ The repository documents the implementation and analysis of digital signal proce
 COU07506-labs/
 │
 ├── Week_01/
-│   └── COU07506_Week01_<RegNo>.ipynb
+│   └── COU07506_Week01_240242404549.ipynb
 │
 ├── Week_02/
 │   └── (Upcoming laboratory work)
@@ -118,6 +118,7 @@ Navigate to the relevant weekly directory and open the corresponding `.ipynb` fi
 ## Author
 
 **HAULE,FELIX DITRICK**
+
 **Computer Engineering Student**
 
 Dar es Salaam Institute of Technology (DIT)
