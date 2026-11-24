@@ -41,9 +41,6 @@ COU07506-labs/
 ├── Week_01/
 │   └── COU07506_Week01_240242404549.ipynb
 │
-├── Week_02/
-│   └── (Upcoming laboratory work)
-│
 ├── .gitignore
 └── README.md
 ```
