@@ -1,40 +1,11 @@
-# ==========================================
-# JUPYTER NOTEBOOK CHECKPOINTS
-# ==========================================
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 
-# ==========================================
-# PERSONAL AUDIO RECORDINGS
-# ==========================================
+# Personal audio recordings
 *.wav
-*.mp3
-*.m4a
 
-# ==========================================
-# PYTHON CACHE FILES
-# ==========================================
+# Python cache files
 __pycache__/
 *.py[cod]
-*$py.class
-
-# ==========================================
-# VIRTUAL ENVIRONMENTS
-# ==========================================
-venv/
-.venv/
-env/
-
-# ==========================================
-# TEMPORARY FILES
-# ==========================================
-*.tmp
-*.log
-*.bak
-.DS_Store
-Thumbs.db
-
-# ==========================================
-# JUPYTER TEMPORARY FILES
-# ==========================================
-.jupyter/
