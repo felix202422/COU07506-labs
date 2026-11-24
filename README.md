@@ -52,7 +52,6 @@ Additional weekly directories will be added as laboratory exercises are complete
 | Week | Laboratory | Main Activities | Status |
 |---|---|---|---|
 | 01 | Lab 0 – Laboratory Setup | Python environment, discrete-time signals, audio recording and Git setup | Completed |
-| 02–14 | Upcoming Laboratories | To be documented | Pending |
 
 ## Installation and Setup
 
